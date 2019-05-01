@@ -1,4 +1,4 @@
-# NodeMCU UI
+# NodeMCU Ui App / ESP8266
 All in one solution for ESP8266 / NodeMCU
 
 ## AIO Kit
@@ -7,13 +7,13 @@ All in one solution for ESP8266 / NodeMCU
 - Desktop App (Windows)
 
 #### 1. Setup
-Add `Network Name` & `Password` on second row in the code
+Add `ssid` & `secret` on second row in the code
 
-Upload the LUA code(`init.lua`) with software ESPlorer,
+Upload the LUA code(`init.lua`) with software ESPlorer
 
 #### 2. Upload
 
-install MCU App to connect to ESP8266 `setup.exe`
+Install MCU App `setup.exe` and connect to ESP8266 to enable to manage device through the network
 
 (! You need to be connected to same accesspoint !)
 
