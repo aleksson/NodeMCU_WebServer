@@ -22,10 +22,15 @@ Install MCU App `setup.exe` and connect to ESP8266 to enable to manage device th
 
 Enter `IP Address` in Desktop Application and enjoy
 
+<br>
 
-## Done
+
+## You Are Done, and i would like one more cup of coffee plz ☕
+
+<br>
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LFMQEBTS2VH4U)
 
+<br><br>
 
 ![Alt text](https://github.com/aCo0o/nodeMCU_UI/blob/master/nodeMCU_UI.jpg?raw=true "nodeMCU UI") 
